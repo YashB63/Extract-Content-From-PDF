@@ -8,6 +8,6 @@ Extracting content from a PDF may involve different techniques depending on the 
 
   - Images: You can extract images from a PDF by using a screenshot tool or a PDF image extractor tool.
 
-Tables: Extracting tables from a PDF can be challenging, but there are specialized tools such as Tabula or Camelot that can help you extract tables accurately.
+  - Tables: Extracting tables from a PDF can be challenging, but there are specialized tools such as Tabula or Camelot that can help you extract tables accurately.
 
 Overall, extracting content from a PDF can be a useful process when you need to reuse or manipulate the data contained in a PDF file. It can save you time and effort, especially when dealing with large amounts of data.
