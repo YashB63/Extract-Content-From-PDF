@@ -1,5 +1,6 @@
 # Extract-Content-From-PDF
 Extracting content from a PDF refers to the process of retrieving specific data or information from a PDF document.
+
 PDF files are a common file format for sharing documents, and they can contain a wide range of content, such as text, images, tables, graphs, and more.
 
 Extracting content from a PDF may involve different techniques depending on the type of content you need to extract. For example:
