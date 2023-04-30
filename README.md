@@ -4,9 +4,9 @@ PDF files are a common file format for sharing documents, and they can contain a
 
 Extracting content from a PDF may involve different techniques depending on the type of content you need to extract. For example:
 
-Text: You can extract text from a PDF by copying and pasting it into another program or using OCR (Optical Character Recognition) software to recognize the text and convert it into an editable format.
+  - Text: You can extract text from a PDF by copying and pasting it into another program or using OCR (Optical Character Recognition) software to recognize the text and convert it into an editable format.
 
-Images: You can extract images from a PDF by using a screenshot tool or a PDF image extractor tool.
+  - Images: You can extract images from a PDF by using a screenshot tool or a PDF image extractor tool.
 
 Tables: Extracting tables from a PDF can be challenging, but there are specialized tools such as Tabula or Camelot that can help you extract tables accurately.
 
